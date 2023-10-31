@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo apt install php
-sudo php -S 0.0.0.0:80
+sudo php -S 192.168.90.57:8080
